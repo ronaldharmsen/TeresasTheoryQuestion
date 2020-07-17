@@ -1,13 +1,13 @@
 ﻿[
   {
-    "name": "A",
+    "name": "1",
     "enabled": true
   },
   {
-    "name": "B!",
+    "name": "2!",
     "enabled": false
   },  {
-    "name": "C!",
+    "name": "3!",
     "enabled": true
   }
 ]
